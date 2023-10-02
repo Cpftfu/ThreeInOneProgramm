@@ -1,0 +1,7 @@
+C:\Users\Вика\source\repos\ThreeInOne\ThreeInOne\obj\Debug\ThreeInOne.csproj.AssemblyReference.cache
+C:\Users\Вика\source\repos\ThreeInOne\ThreeInOne\obj\Debug\ThreeInOne.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\ThreeInOne\ThreeInOne\bin\Debug\ThreeInOne.exe.config
+C:\Users\Вика\source\repos\ThreeInOne\ThreeInOne\bin\Debug\ThreeInOne.exe
+C:\Users\Вика\source\repos\ThreeInOne\ThreeInOne\bin\Debug\ThreeInOne.pdb
+C:\Users\Вика\source\repos\ThreeInOne\ThreeInOne\obj\Debug\ThreeInOne.exe
+C:\Users\Вика\source\repos\ThreeInOne\ThreeInOne\obj\Debug\ThreeInOne.pdb
